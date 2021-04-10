@@ -3,6 +3,6 @@ module.exports = {
   templateName: '营销活动',
   author: 'muwoo',
   snapshot: 'https://cdn.img.snapshot.png',
-  gitUrl: 'coco-h5/coco-template',
+  gitUrl: 'titan-h5/titan-template',
   projectType: '0'
 };
